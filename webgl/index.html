@@ -45,40 +45,9 @@
       #unity-fullscreen-button {
         display: none !important;
       }
-      #rotate-overlay {
-        display: none;
-        position: fixed;
-        inset: 0;
-        z-index: 9999;
-        background: #000;
-        color: #fff;
-        flex-direction: column;
-        align-items: center;
-        justify-content: center;
-        text-align: center;
-        font-family: sans-serif;
-        padding: 20px;
-      }
-      #rotate-overlay .icon {
-        font-size: 48px;
-        margin-bottom: 16px;
-        animation: rotate-hint 1.6s ease-in-out infinite;
-      }
-      @keyframes rotate-hint {
-        0%, 100% { transform: rotate(0deg); }
-        50% { transform: rotate(90deg); }
-      }
-      @media (orientation: landscape) {
-        #unity-container { display: none !important; }
-        #rotate-overlay { display: flex; }
-      }
     </style>
   </head>
   <body>
-    <div id="rotate-overlay">
-      <div class="icon">&#128241;</div>
-      <div>Поверніть пристрій у вертикальне положення<br>Гра підтримує лише портретну орієнтацію (9:16)</div>
-    </div>
     <div id="unity-container" class="unity-desktop">
       <div id="unity-fullscreen-container">
         <canvas id="unity-canvas" width="1080" height="1920" tabindex="-1"></canvas>
