@@ -153,5 +153,4 @@ e-planning.net, 79ded3cfca3d3b78, RESELLER, c1ba615865ed87b2
 e-planning.net, 6a7f877127485fdb, RESELLER, c1ba615865ed87b2
 insticator.com, cadff748-965f-4393-a76e-a8f902512bad, RESELLER, b3511ffcafb23a32
 targetbetter.com, 82228, RESELLER
-google.com, pub-4888552824879945, DIRECT, f08c47fec0942fa0
 facebook.com, 2131879060667767, DIRECT, c3e20eee3f780d68
