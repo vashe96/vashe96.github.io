@@ -154,3 +154,8 @@ e-planning.net, 6a7f877127485fdb, RESELLER, c1ba615865ed87b2
 insticator.com, cadff748-965f-4393-a76e-a8f902512bad, RESELLER, b3511ffcafb23a32
 targetbetter.com, 82228, RESELLER
 facebook.com, 2131879060667767, DIRECT, c3e20eee3f780d68
+adwmg.com, 159512, RESELLER, c9688a22012618e7
+appnexus.com, 17973, RESELLER, f5ab79cb980f11d1
+bold-win.com, 1013, RESELLER, 71746737d0bab951
+my-cast.tv, 987033, RESELLER, 8c33fe1bd714ffd7
+triplelift.com, 8614, RESELLER, 6c33edb13117fd86
